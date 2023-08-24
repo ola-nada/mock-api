@@ -1,0 +1,110 @@
+{
+    "house":[
+        {
+            "id":1,
+            "title": "Avenue Apartment",
+            "price": 800,
+            "bedroom": 4,
+            "bathroom": 2,
+            "space": 250,
+            "location":"Gaza - Tal-Alhawa",
+            "description":"Cras ultricies ligula sed magna dictum porta. Nulla quis lorem ut libero malesuada feugiat. Lorem ipsum dolor sitamet, consectetur adipiscing elit. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vestibulum.",
+            "photo": "https://templates.hibootstrap.com/fela/default/assets/img/property/property-6.jpg"
+          },
+
+          {
+            "id":2,
+            "title": "Park House",
+            "price": 900,
+            "bedroom": 8,
+            "bathroom": 5,
+            "space": 350,
+            "location":"Tal-Aljala",
+            "description":"Cras ultricies ligula sed magna dictum porta. Nulla quis lorem ut libero malesuada feugiat. Lorem ipsum dolor sitamet, consectetur adipiscing elit. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vestibulum.",
+            "photo": "https://templates.hibootstrap.com/fela/default/assets/img/property/property-20.jpg"
+          },
+
+
+          {
+            "id":3,
+            "title": "Condo For Sale",
+            "price": 750,
+            "bedroom": 5,
+            "bathroom": 2,
+            "space": 390,
+            "location":"Rafah-Albalad",
+            "description":"Cras ultricies ligula sed magna dictum porta. Nulla quis lorem ut libero malesuada feugiat. Lorem ipsum dolor sitamet, consectetur adipiscing elit. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vestibulum.",
+            "photo": "https://templates.hibootstrap.com/fela/default/assets/img/property/property-29.jpg"
+          },
+
+
+          {
+            "id":4,
+            "title": "Villa In Lake View",
+            "price": 800,
+            "bedroom": 4,
+            "bathroom": 2,
+            "space": 390,
+            "location":"Rafah-Aljenina",
+            "description":"Cras ultricies ligula sed magna dictum porta. Nulla quis lorem ut libero malesuada feugiat. Lorem ipsum dolor sitamet, consectetur adipiscing elit. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vestibulum.",
+            "photo": "https://templates.hibootstrap.com/fela/default/assets/img/property/single-property-1.jpg"
+          },
+          {
+            "id":5,
+            "title": "Villa In Luis Park",
+            "price": 1000,
+            "bedroom": 5,
+            "bathroom": 3,
+            "space": 590,
+            "location":"Gaza",
+            "description":"Cras ultricies ligula sed magna dictum porta. Nulla quis lorem ut libero malesuada feugiat. Lorem ipsum dolor sitamet, consectetur adipiscing elit. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vestibulum.",
+            "photo": "https://templates.hibootstrap.com/fela/default/assets/img/property/property-20.jpg"
+          },
+          {
+            "id":6,
+            "title": "Modern Apartment",
+            "price": 900,
+            "bedroom": 7,
+            "bathroom": 2,
+            "space": 490,
+            "location":"Gaza",
+            "description":"Cras ultricies ligula sed magna dictum porta. Nulla quis lorem ut libero malesuada feugiat. Lorem ipsum dolor sitamet, consectetur adipiscing elit. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vestibulum.",
+            "photo": "https://templates.hibootstrap.com/fela/default/assets/img/property/property-8.jpg"
+          },
+          {
+            "id":7,
+            "title": "https://templates.hibootstrap.com/fela/default/assets/img/property/property-5.jpg",
+            "price": 750,
+            "bedroom": 4,
+            "bathroom": 3,
+            "space": 390,
+            "location":"Jablia-Almosker",
+            "description":"Cras ultricies ligula sed magna dictum porta. Nulla quis lorem ut libero malesuada feugiat. Lorem ipsum dolor sitamet, consectetur adipiscing elit. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vestibulum.",
+            "photo": "https://templates.hibootstrap.com/fela/default/assets/img/property/property-5.jpg"
+          },
+          {
+            "id":8,
+            "title": "Flat For Rent",
+            "price": 420,
+            "bedroom": 4,
+            "bathroom": 2,
+            "space": 130,
+            "location":"Khan Younis",
+            "description":"Cras ultricies ligula sed magna dictum porta. Nulla quis lorem ut libero malesuada feugiat. Lorem ipsum dolor sitamet, consectetur adipiscing elit. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vestibulum.",
+            "photo": "https://templates.hibootstrap.com/fela/default/assets/img/property/property-6.jpg"
+          },
+          {
+            "id":9,
+            "title": "Dreamy Penthouse",
+            "price": 800,
+            "bedroom": 3,
+            "bathroom": 4,
+            "space": 450,
+            "location":"Gaza-alshajaia",
+            "description":"Cras ultricies ligula sed magna dictum porta. Nulla quis lorem ut libero malesuada feugiat. Lorem ipsum dolor sitamet, consectetur adipiscing elit. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vestibulum.",
+            "photo": "https://templates.hibootstrap.com/fela/default/assets/img/property/property-12.jpg"
+          }
+
+
+    ]
+}
